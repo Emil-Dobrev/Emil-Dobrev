@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Emil-Dobrev
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and DB
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, Spring boot and Angular
 - 📫 How to reach me +359885072530
 
 <!---
