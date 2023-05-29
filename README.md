@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emil-Dobrev @SoftwareDeveloper
-- 👀 I’m interested in Java, Spring boot, Typescript,Angular
-- 📫 How to reach me +359885072530
+- 👀 I’m interested in Java, Spring boot, Typescript, Angular
+- 📫 How to reach me +4915204641575
 
 <!---
 Emil-Dobrev/Emil-Dobrev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
