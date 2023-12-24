@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emil-Dobrev @SoftwareDeveloper
-- 👀 I’m interested in Java, Spring boot, Typescript, Angular
+- 👀 I’m interested in Kotlin, Java, Spring boot, Typescript, Angular
 - 📫 How to reach me +4915204641575
 
 <!---
